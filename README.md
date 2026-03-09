@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I am a researcher in statistics and econometrics who enjoys working on problems in statistical learning, machine learning, and data analysis. I am interested in building methods that are both theoretically sound and useful in practice.
+I am a researcher working on developing provable methodologies to solve real-world problems.
 
-- 🌱 test
-- 👯 etest
-- 💬 test
-- ⚡ ets
+- 📈 Econometrics
+- 🤖 Machine Learning
+- 📊 Non-parametric Statistics
+- ⚙️ Optimization
